@@ -92,7 +92,7 @@ You will need an AWS account to copy this project. Once you have an account, you
   * In Amazon Sagemaker, go to the `Role Manager` tab under `Admin configurations` and click "Create a role".
   * Set the role's persona to the "SageMaker Compute Role" option.
   * Under `Configure ML activities`, give the role the permissions shown in the photo below.
-  [PHOTO]
+  [![Required IAM ML Permissions][IAM-Photo]](https://github.com/FowwazM/Financial-Domain-Expert/blob/main/Docs/IAM_ML_Permissions.png)
   * Under `Add additional IAM policies to this role`, select the "AmazonSageMakerFullAccess" option.
 * Request a GPU instance for training
   * Open the AWS Service Quota Dashboard and choose "Sagemaker" in the `AWS Services` dropdown.
@@ -165,6 +165,7 @@ Project Link: [https://github.com/FowwazM/Financial-Domain-Expert](https://githu
 [license-url]: https://github.com/FowwazM/Financial-Domain-Expert/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/fowwaz-moeen/
+[IAM-Photo]: Docs/IAM_ML_Permissions.png
 [Sagemaker-Badge]: https://img.shields.io/badge/AWS%20Sagemaker-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
 [Sagemaker-url]: https://aws.amazon.com/sagemaker/
 [Huggingface-Badge]: https://img.shields.io/badge/Hugging%20Face-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white
