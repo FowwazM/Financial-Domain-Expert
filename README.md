@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/FowwazM/repo_name">
+  <a href="https://github.com/FowwazM/Financial-Domain-Expert">
     <img src="Docs/logo.png" alt="Logo" width="100" height="100">
   </a>
 
@@ -22,12 +22,12 @@
   <p align="center">
     A financial domain expert built with Meta Llama 2
     <br />
-    <a href="https://github.com/FowwazM/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/FowwazM/Financial-Domain-Expert"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/FowwazM/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/FowwazM/Financial-Domain-Expert/issues">Report Bug</a>
     ·
-    <a href="https://github.com/FowwazM/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/FowwazM/Financial-Domain-Expert/issues">Request Feature</a>
   </p>
 </div>
 
@@ -61,7 +61,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a financial domain expert built by fine-tuning Meta's Llama 2 7B text generation large language model. The model was trained on a financial dataset provided by Amazon (a copy of which can be found in <a href="https://github.com/FowwazM/repo_name/blob/main/financialDataset.txt">this repository</a>) using AWS Sagemaker. The fine-tuned model is able to provide specific facts & statistics relevant to the input prompt and is able to make inferences on the contextual meaning and significance of these facts & statistics to answer prompts.
+This is a financial domain expert built by fine-tuning Meta's Llama 2 7B text generation large language model. The model was trained on a financial dataset provided by Amazon (a copy of which can be found in <a href="https://github.com/FowwazM/Financial-Domain-Expert/blob/main/financialDataset.txt">this repository</a>) using AWS Sagemaker. The fine-tuned model is able to provide specific facts & statistics relevant to the input prompt and is able to make inferences on the contextual meaning and significance of these facts & statistics to answer prompts.
 
 This project was completed as part of the "Introducing Generative AI" course from AWS. A copy of my certificate of completion of the course is in the `Docs` folder of this repository.
 
@@ -134,7 +134,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Fowwaz Moeen - [LinkedIn][linkedin-url] - fowwazmoeen@gmail.com
 
-Project Link: [https://github.com/FowwazM/repo_name](https://github.com/FowwazM/repo_name)
+Project Link: [https://github.com/FowwazM/Financial-Domain-Expert](https://github.com/FowwazM/Financial-Domain-Expert)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -153,16 +153,16 @@ Project Link: [https://github.com/FowwazM/repo_name](https://github.com/FowwazM/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/FowwazM/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/FowwazM/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/FowwazM/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/FowwazM/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/FowwazM/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/FowwazM/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/FowwazM/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/FowwazM/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/FowwazM/repo_name.svg?label=license&style=for-the-badge
-[license-url]: https://github.com/FowwazM/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/FowwazM/Financial-Domain-Expert.svg?style=for-the-badge
+[contributors-url]: https://github.com/FowwazM/Financial-Domain-Expert/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/FowwazM/Financial-Domain-Expert.svg?style=for-the-badge
+[forks-url]: https://github.com/FowwazM/Financial-Domain-Expert/network/members
+[stars-shield]: https://img.shields.io/github/stars/FowwazM/Financial-Domain-Expert.svg?style=for-the-badge
+[stars-url]: https://github.com/FowwazM/Financial-Domain-Expert/stargazers
+[issues-shield]: https://img.shields.io/github/issues/FowwazM/Financial-Domain-Expert.svg?style=for-the-badge
+[issues-url]: https://github.com/FowwazM/Financial-Domain-Expert/issues
+[license-shield]: https://img.shields.io/github/license/FowwazM/Financial-Domain-Expert.svg?label=license&style=for-the-badge
+[license-url]: https://github.com/FowwazM/Financial-Domain-Expert/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/fowwaz-moeen/
 [Sagemaker-Badge]: https://img.shields.io/badge/AWS%20Sagemaker-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
